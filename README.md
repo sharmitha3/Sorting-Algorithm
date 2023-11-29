@@ -30,10 +30,6 @@ def selection_sort(nums):
             if nums[j]<nums[min_i]:
                 min_i=j
         nums[i],nums[min_i]=nums[min_i],nums[i]
-    
-    
-    
-    
 list_of_nums = eval(input())
 selection_sort(list_of_nums)
 print(list_of_nums)
