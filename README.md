@@ -53,12 +53,10 @@ list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
 
-
-
-
-
-
 ```
+## Sample input:
+![image](https://github.com/sharmitha3/Sorting-Algorithm/assets/145974496/02e774d0-d8b4-4f87-82d6-e525ce1bf990)
+![image](https://github.com/sharmitha3/Sorting-Algorithm/assets/145974496/8e39c404-7ef5-4d76-adcc-8daf6268d0cb)
 
 ## Output:
 ![image](https://github.com/sharmitha3/Sorting-Algorithm/assets/145974496/8f7b700a-7280-41f2-9ad9-70575b3dc502)
